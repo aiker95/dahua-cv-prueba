@@ -8,3 +8,9 @@ Scripts for analyzing video files using different algorithms and techniques.
 #### Motion.py
 - Motion detection and tracking using OpenCV contours.
 - Detects even the slightest movement, so it's not very accurate if you want specific object tracking.
+
+
+Sources
+-
+
+Python CV motion heatmap: https://github.com/intel-iot-devkit/python-cv-samples/tree/master/examples/motion-heatmap
