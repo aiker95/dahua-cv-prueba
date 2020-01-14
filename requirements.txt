@@ -1,2 +1,6 @@
 numpy
 opencv-contrib-python
+torch
+torchvision
+matplotlib
+Pillow<7
